@@ -7,6 +7,3 @@ a
 file
 online
 van
-1
-2
-3
