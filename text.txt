@@ -1,4 +1,2 @@
-updated
-text
-version
-3.0
+verzio
+3.1
