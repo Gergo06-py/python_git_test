@@ -1,2 +1,2 @@
 def main():
-    print(line.strip() for line in open("file/text.txt", "r"))
+    {print(line.strip()) for line in open("text.txt", "r")}
