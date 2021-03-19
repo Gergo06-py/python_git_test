@@ -1,2 +1,10 @@
 def main():
-    {print(line.strip()) for line in open("text.txt", "r")}
+    try:
+        file = open("main_program/text.txt", "r")
+        lines = [line.strip() for line in file]
+        print(lines)
+        return True
+    except:
+        return Exception
+
+main()
